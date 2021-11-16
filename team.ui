@@ -176,7 +176,7 @@ color: rgb(255, 255, 255);</string>
          <string notr="true">color: rgb(255, 255, 255);</string>
         </property>
         <property name="text">
-         <string>1</string>
+         <string>4</string>
         </property>
        </widget>
       </item>
@@ -192,7 +192,7 @@ color: rgb(255, 255, 255);</string>
          <string notr="true">color: rgb(255, 255, 255);</string>
         </property>
         <property name="text">
-         <string>1</string>
+         <string>9</string>
         </property>
        </widget>
       </item>
@@ -208,7 +208,7 @@ color: rgb(255, 255, 255);</string>
          <string notr="true">color: rgb(255, 255, 255);</string>
         </property>
         <property name="text">
-         <string>1</string>
+         <string>16</string>
         </property>
        </widget>
       </item>
@@ -224,7 +224,7 @@ color: rgb(255, 255, 255);</string>
          <string notr="true">color: rgb(255, 255, 255);</string>
         </property>
         <property name="text">
-         <string>1</string>
+         <string>25</string>
         </property>
        </widget>
       </item>
@@ -337,7 +337,7 @@ color: rgb(255, 255, 255);</string>
       <rect>
        <x>0</x>
        <y>680</y>
-       <width>195</width>
+       <width>181</width>
        <height>31</height>
       </rect>
      </property>
@@ -384,61 +384,22 @@ color: rgb(255, 255, 255);</string>
       </rect>
      </property>
      <property name="currentIndex">
-      <number>0</number>
+      <number>2</number>
      </property>
      <widget class="QWidget" name="tab_4">
       <attribute name="title">
        <string>第一屏</string>
       </attribute>
-      <widget class="QPlainTextEdit" name="plainTextEdit">
-       <property name="geometry">
-        <rect>
-         <x>150</x>
-         <y>140</y>
-         <width>104</width>
-         <height>87</height>
-        </rect>
-       </property>
-       <property name="plainText">
-        <string>1</string>
-       </property>
-      </widget>
      </widget>
      <widget class="QWidget" name="tab_5">
       <attribute name="title">
        <string>第二屏</string>
       </attribute>
-      <widget class="QPlainTextEdit" name="plainTextEdit_2">
-       <property name="geometry">
-        <rect>
-         <x>160</x>
-         <y>140</y>
-         <width>104</width>
-         <height>87</height>
-        </rect>
-       </property>
-       <property name="plainText">
-        <string>2</string>
-       </property>
-      </widget>
      </widget>
      <widget class="QWidget" name="tab_6">
       <attribute name="title">
        <string>第三屏</string>
       </attribute>
-      <widget class="QPlainTextEdit" name="plainTextEdit_3">
-       <property name="geometry">
-        <rect>
-         <x>150</x>
-         <y>230</y>
-         <width>104</width>
-         <height>87</height>
-        </rect>
-       </property>
-       <property name="plainText">
-        <string>3</string>
-       </property>
-      </widget>
      </widget>
     </widget>
     <widget class="QWidget" name="horizontalLayoutWidget_7">
@@ -586,58 +547,6 @@ color: rgb(255, 255, 255);</string>
          </widget>
         </item>
        </layout>
-      </widget>
-      <widget class="QToolBox" name="toolBox">
-       <property name="geometry">
-        <rect>
-         <x>0</x>
-         <y>140</y>
-         <width>171</width>
-         <height>241</height>
-        </rect>
-       </property>
-       <property name="currentIndex">
-        <number>2</number>
-       </property>
-       <widget class="QWidget" name="page">
-        <property name="geometry">
-         <rect>
-          <x>0</x>
-          <y>0</y>
-          <width>100</width>
-          <height>30</height>
-         </rect>
-        </property>
-        <attribute name="label">
-         <string>我的设备</string>
-        </attribute>
-       </widget>
-       <widget class="QWidget" name="page_2">
-        <property name="geometry">
-         <rect>
-          <x>0</x>
-          <y>0</y>
-          <width>100</width>
-          <height>30</height>
-         </rect>
-        </property>
-        <attribute name="label">
-         <string>默认分组</string>
-        </attribute>
-       </widget>
-       <widget class="QWidget" name="page_3">
-        <property name="geometry">
-         <rect>
-          <x>0</x>
-          <y>0</y>
-          <width>171</width>
-          <height>151</height>
-         </rect>
-        </property>
-        <attribute name="label">
-         <string>本地设备</string>
-        </attribute>
-       </widget>
       </widget>
      </widget>
      <widget class="QWidget" name="tab_2">
